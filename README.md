@@ -20,10 +20,10 @@ This program uses all following packages for each programming language that need
 ## Usage
 After installing all requirements, the only one left is a correct input file.
 Here is an example table containing all the required columns (can be more individual columns):
-![example_input](example_input_table.png)
+![example_input](pics/example_input_table.png)
 
 The output will be an image of two face-to-face phylogenetic trees of both groups of species, including the mean trait values per species, like this:
-![pics/example_output](pics/example_output_cophylotree.png)
+![pics/example_output](example_output_cophylotree.png)
 
 ## References
 
