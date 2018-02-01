@@ -17,5 +17,9 @@ This program uses all following packages for each programming language that need
   * seqinr
 ## Usage
 After installing all requirements, the only one left is a correct input file.
+Here is an example table containing all the required columns (can be more individual columns):
 ![example_input](example_input_table.png)
+
+
+## References
 
