@@ -5,5 +5,12 @@ This program is separated in two segments: The first part is a python script tha
 The second segment of the program is a R script that usees the newick tree file to plot the trees as final output.
 ## Installation
 This program uses all following packages that need to be installed beforehand: 
-* sadfasdf
+* bash:
+
+* python:
+** 
+* R:
+** ape 
+** phangorn
+** seqinr
 ## Usage
