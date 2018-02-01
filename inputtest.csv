@@ -1,0 +1,14 @@
+Group_ID,Genus,Species,Trait,Individual1,Individual2,Individual3
+1,Aquilegia,vulgaris,spur length,2,2,2
+1,Aquilegia,pubescens,spur length,1,2,1
+1,Aquilegia,canadensis,spur length,5,6,5
+1,Aquilegia,longissima,spur length,2,5,4
+1,Aconitum,barbatum,spur length,1,2,3
+1,Aconitum,orientale,spur length,3,2,1
+1,Aconitum,delphinifolium,spur length,4,2,1
+2,Sphinx,ligustri,tongue length,1,1,1
+2,Acherontia,atropos,tongue length,3,3,3
+2,Manduca,sexta,tongue length,5,5,5
+2,Manduca,quinquemaculata,tongue length,5,6,6
+2,Daphnis,nerii,tongue length,3,3,4
+2,Eumorpha,pandorus,tongue length,3,4,1
