@@ -24,7 +24,7 @@ Here is an example table containing all the required columns (can be more indivi
 
 The output will be an image of two face-to-face phylogenetic trees of both groups of species, including the mean trait values per 
 species, like this:
-![pics/example_output](example_output_cophylotree.png)
+![pics/example_output](pics/example_output_cophylotree.png)
 
 ## References
 
